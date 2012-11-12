@@ -1,0 +1,12 @@
+---
+comments: true
+date: 2011-10-01 18:13:02
+layout: post
+slug: toxico
+title: Tóxico
+wordpress_id: 300
+categories:
+- Notas Mentais
+---
+
+Tóxico. Não a sensação fisica, mas a de que a vida passa te passa muito mais rápido pelo olhar, como morrer, mas continua até nada mais sobrar, nem alegria, nem dor, nem paixão, só tu.

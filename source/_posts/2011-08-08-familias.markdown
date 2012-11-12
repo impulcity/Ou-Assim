@@ -1,0 +1,17 @@
+---
+comments: true
+date: 2011-08-08 16:47:17
+layout: post
+slug: familias
+title: Famílias
+wordpress_id: 170
+categories:
+- Citações
+---
+
+![](http://gabrielpoca.com/blog/wp-content/uploads/2011/08/pedro-paixao-a-rapariga-errada-175x300.jpg) "As famílias sao compostas de animais gregários a berrarem uns aos outros que não se afastem, que há o perigo de se afogarem, de se perderem no deserto. As famílias são peritas em chantagens, são exímias em produzir medo, querem só reproduzir-se e mais nada."
+
+
+
+
+Pedro Paixão em _A Rapariga Errada_

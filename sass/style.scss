@@ -1,7 +1,51 @@
+@import "fonts";
+@import url("http://www.google.com/webfonts/specimen/Open+Sans");
+
+#fixed-top-line {
+  height: 0.5em;
+  background-color: black;
+}
 
 header.container {
-	padding: 9em 0 5em 0;
-	h1 {
-		font-size: 72px;
-	}
+  padding: 9em 0 5em 0;
+  h1 {
+    font-family: 'Proxima Nova Bold';
+    font-size: 72px;
+    font-weight: bolder;
+    margin-bottom: 0.3em;
+  }
+}
+
+article {
+  margin-top: 4em;
+  margin-bottom: 2em;
+  .entry-date time {
+    font-size: 0.8em;
+    line-height: 64px;
+    color: #BBB;
+  }
+  .entry-title {
+    margin-bottom: 0.5em;
+    a {
+      color: black;
+    }
+  }
+  .read-more {
+    a em {
+      color: black;
+    }
+  }
+}
+
+body {
+  padding-bottom: 40px;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.sharing, .meta, .pager {
+  margin: 20px 0px 20px 0px;
+}
+
+.page-footer p {
+  text-align: center;
 }

@@ -1,0 +1,17 @@
+---
+comments: true
+date: 2011-08-10 12:46:55
+layout: post
+slug: a-arte
+title: A arte
+wordpress_id: 203
+categories:
+- Citações
+---
+
+[![](http://gabrielpoca.com/blog/wp-content/uploads/2011/08/pedro-paixao-a-rapariga-errada-175x300.jpg)](http://gabrielpoca.com/blog/wp-content/uploads/2011/08/pedro-paixao-a-rapariga-errada.jpg)"A arte tem o poder de te enganar da maneira em que mais desejas ser enganada."
+
+
+
+
+Pedro Paixão em _A Rapariga Errada_

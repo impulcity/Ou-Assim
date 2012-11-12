@@ -1,0 +1,15 @@
+---
+comments: true
+date: 2011-08-11 16:30:22
+layout: post
+slug: dinheiro
+title: Dinheiro
+wordpress_id: 210
+categories:
+- Citações
+---
+
+[![](http://gabrielpoca.com/blog/wp-content/uploads/2011/08/pedro-paixao-a-rapariga-errada-175x300.jpg)](http://gabrielpoca.com/blog/wp-content/uploads/2011/08/pedro-paixao-a-rapariga-errada.jpg) "Em Nova Iorque o dinheiro era só, e simplesmente, dinheiro. Não estava ligado a mais nada. Não tinha qualquer conotação moral ou social, como tem nos nossos países católicos..."
+
+
+Pedro Paixão em _A Rapariga Errada_
