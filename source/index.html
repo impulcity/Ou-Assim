@@ -6,19 +6,17 @@ layout: default_index
   {% for post in paginator.posts %}
     {% assign content = post.content %}
     <div class="container">
-      <div class="span12">
-        {% include article.html %}
-      </div>
+      {% include article.html %}
     </div>
     <hr>
   {% endfor %}
   <div class="container">
-    <ul class="row-fluid pager">
+    <ul class="row-fluid nav-page">
       {% if paginator.next_page %}
-      <li class="previous"><a href="{{paginator.next_page}}">&larr; Mais antigos</a></li>
+        <li class="previous"><a href="{{paginator.next_page}}">&larr; Mais antigo</a></li>
       {% endif %}
       {% if paginator.previous_page %}
-      <li class="next"><a href="{{paginator.previous_page}}">Mais recentes &rarr;</a></li>
+        <li class="next"><a href="{{paginator.previous_page}}">Mais recente &rarr;</a></li>
       {% endif %}
     </ul>
   </div>
